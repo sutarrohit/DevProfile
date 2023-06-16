@@ -13,8 +13,11 @@
     "@types/react": "18.2.12",
     "@types/react-dom": "18.2.5",
     "next": "13.4.5",
+    "puppeteer": "^20.7.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.9.0",
     "typescript": "5.1.3"
   }
 }
