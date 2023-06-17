@@ -58,9 +58,9 @@ const Skills = () => {
         <div className={Style.skills_container_Tools}>
           <h2>Tools And Technologies</h2>
           <div className={Style.skills_container_Tools_data}>
-            {toolsAndTechnologies.map((item) => {
+            {toolsAndTechnologies.map((item, key) => {
               return (
-                <div className={Style.skills_container_Tools_info}>
+                <div className={Style.skills_container_Tools_info} key={key}>
                   <Image src={item.imgURL} alt={item.name} width={50} />
                   <p>{item.name}</p>
                 </div>

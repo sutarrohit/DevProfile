@@ -1,21 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Tilt+Warp&display=swap");
 
 :root {
-  /* --main-bg-color: #eff0f3; */
-  /* --icon-color: #ffd803;
-  --icon-color-2: #001858;
-  --icon-color-3: #2c3e50; */
-
   --bg-color: #081b29;
   --second-bg-color: #112e42;
   --text-color: #ffffff;
   --main-bg-color: #00abf0;
   --text-color-2: #f39c12;
-
-  /* --bg-color: #232946;
-  --second-bg-color: #eebbc3;
-  --text-color: #ffffff;
-  --main-bg-color: #b8c1ec; */
 }
 
 * {

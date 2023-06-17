@@ -2,7 +2,7 @@
   position: relative;
   top: 0;
   height: calc(100vh);
-  background: url("../../img/img2.jpg") no-repeat;
+  /* background: url("../../img/img2.jpg") no-repeat; */
   background-size: cover;
   background-position: center;
 }
@@ -112,7 +112,6 @@
 /* Socials */
 .home_container_left_socials {
   margin-top: 3rem;
-
   width: 11rem;
   display: flex;
   justify-content: space-between;

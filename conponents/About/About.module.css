@@ -4,7 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--bg-color);
+  background-color: var(--second-bg-color);
 }
 
 .about_container {
@@ -45,10 +45,15 @@
   text-align: center;
   font-weight: 700;
   transition: 0.8s;
+  border: 2px solid var(--main-bg-color);
+  border-radius: 1.5rem;
+  padding: 1rem;
 }
 
 .about_container p:hover {
   transform: scale(1.1);
+  color: var(--bg-color);
+  background-color: var(--main-bg-color);
 }
 
 /* Button */
