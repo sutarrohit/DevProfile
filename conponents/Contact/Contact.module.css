@@ -186,6 +186,10 @@
   /* Left */
   .contact_container_left {
     gap: 0.1rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    padding-left: 2rem;
   }
 
   .contact_container_left h2 {
