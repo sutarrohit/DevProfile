@@ -9,13 +9,12 @@ To run the project locally, make sure you have Node.js and npm (Node Package Man
 
 bash
 Copy code
-`git clone https://github.com/your-username/profile-website.git`
-Navigate to the project directory:
+`git clone https://github.com/your-username/profile-website.git`</br>
+Navigate to the project directory:</br>
+bash</br>
+Copy code</br>
+cd profile-website</br>
 
-bash
-Copy code
-cd profile-website
-Install the dependencies:
-
-Copy code
+### Install the dependencies:</br>
+Copy code</br>
 npm install
